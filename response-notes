@@ -1,0 +1,8 @@
+local ioc running, data collection 100 seconds from device ioc:     6.758868565402153
+local ioc running, data collection 100 seconds from device ioc:     6.75859083381115
+local ioc not running, data collection 100 seconds from device ioc: 6.779555783877374
+local ioc not running, data collection 100 seconds from device ioc: 6.779227845948349
+device ioc running, data collection 100 seconds from local ioc:     2.7843200063033686
+device ioc running, data collection 100 seconds from local ioc:     2.7653186422360103
+device ioc not running, data collection 30 seconds from local ioc:  2.4732155046124857
+
